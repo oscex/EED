@@ -1,3 +1,3 @@
 Libros prestados: 12000
-Libros disponibles: 129
+Libros disponibles: 1290
 Librps reservados: 4
